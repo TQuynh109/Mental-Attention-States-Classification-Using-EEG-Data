@@ -71,7 +71,7 @@ Built a data processing pipeline consisting of:
 - EEG data preprocessing (noise filtering, normalization, ICA, feature extraction)
 - Training Machine Learning Models (SVM, Random Forest) and Deep Learning Model (Neutral Network) to classify mental states.
 
-**Results**: The model achieved **96.70%** accuracy under experimental conditions.
+**Results**: The model achieved max **70.00%** accuracy under experimental conditions.
 
 Future Development Directions:
 

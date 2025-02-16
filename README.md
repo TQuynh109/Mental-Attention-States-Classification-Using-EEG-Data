@@ -85,5 +85,6 @@ We sincerely thank all team members for their dedication and time in developing 
 | **Name**| **Major**| **University**|
 |-|-|-|
 | Phan Binh Phuong      | Data Science  | University of Science (VNUHCM) |
+| Huynh Thao Quynh | Data Science  | University of Science (VNUHCM) |
 | Nguyen Ngoc Thanh Thu | Data Science  | University of Science (VNUHCM) |
 | Kieu Thi Ngoc Vui     | Data Science  | University of Science (VNUHCM) |
